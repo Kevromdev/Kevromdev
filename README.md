@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevromdev
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning CSS and Java Script 
 - 💞️ I’m looking to collaborating 
 - 📬 ¿How to Reach me? Send mensage in Instagram 
 - 😄 Pronouns: He/Him

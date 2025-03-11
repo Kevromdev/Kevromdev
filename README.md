@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevromdev
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning Java
 
 
 <!---
